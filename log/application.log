@@ -1,0 +1,18 @@
+2022-04-15 08:51:31,935 [main] INFO nopCommerce - *****Launching browser*****
+2022-04-15 08:51:31,978 [main] INFO nopCommerce - *****Opening URL*****
+2022-04-15 08:51:33,619 [main] INFO nopCommerce - *****Providing Logging Details*****
+2022-04-15 08:51:34,065 [main] INFO nopCommerce - *****Starting Logging Proccess *****
+2022-04-15 08:51:43,908 [main] INFO nopCommerce - *****Adding new Customer*****
+2022-04-15 08:51:43,909 [main] INFO nopCommerce - *****Providing Customer details*****
+2022-04-15 08:51:48,078 [main] INFO nopCommerce - *****Saving Customer data*****
+2022-04-15 08:51:51,838 [main] INFO nopCommerce - *****Closing browser*****
+2022-04-15 08:51:54,341 [main] INFO nopCommerce - *****Launching browser*****
+2022-04-15 08:51:54,347 [main] INFO nopCommerce - *****Opening URL*****
+2022-04-15 08:51:55,881 [main] INFO nopCommerce - *****Providing Logging Details*****
+2022-04-15 08:51:56,168 [main] INFO nopCommerce - *****Starting Logging Proccess *****
+2022-04-15 08:52:03,499 [main] INFO nopCommerce - *****Launching browser*****
+2022-04-15 08:52:03,501 [main] INFO nopCommerce - *****Opening URL*****
+2022-04-15 08:52:05,590 [main] INFO nopCommerce - *****Providing Logging Details*****
+2022-04-15 08:52:05,905 [main] INFO nopCommerce - *****Starting Logging Proccess *****
+2022-04-15 08:52:10,815 [main] INFO nopCommerce - *****Searching user by First and Last Name*****
+2022-04-15 08:52:13,425 [main] INFO nopCommerce - *****Closing browser*****
